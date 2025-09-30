@@ -9,6 +9,8 @@
         <input type="text" name="nim">
         <label>Prodi</label>
         <input type="text" name="prodi">
+        <label>Angkatan</label>
+        <input type="text" name="angkatan">
         <button type="submit">Simpan</button>
     </form>
 @endsection
