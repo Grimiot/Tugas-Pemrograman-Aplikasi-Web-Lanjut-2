@@ -9,6 +9,8 @@
         <input type="text" name="nim" value="{{ $mhs->nim }}">
         <label>Prodi</label>
         <input type="text" name="prodi" value="{{ $mhs->prodi }}">
+        <label>Angkatan</label>
+        <input type="text" name="angkatan" value="{{ $mhs->angkatan }}">
         <button type="submit">Update</button>
     </form>
 @endsection
